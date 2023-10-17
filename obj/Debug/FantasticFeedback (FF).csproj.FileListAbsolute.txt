@@ -1,0 +1,20 @@
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\bin\Debug\FantasticFeedback (FF).exe.config
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\bin\Debug\FantasticFeedback (FF).exe
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\bin\Debug\FantasticFeedback (FF).pdb
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\bin\Debug\Guna.UI.dll
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\obj\Debug\FantasticFeedback (FF).csproj.AssemblyReference.cache
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\obj\Debug\FantasticFeedback__FF_.form1.resources
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\obj\Debug\FantasticFeedback__FF_.Properties.Resources.resources
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\obj\Debug\FantasticFeedback (FF).csproj.GenerateResource.cache
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\obj\Debug\FantasticFeedback (FF).csproj.CoreCompileInputs.cache
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\obj\Debug\FantasticFeedback (FF).csproj.CopyComplete
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\obj\Debug\FantasticFeedback (FF).exe
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\obj\Debug\FantasticFeedback (FF).pdb
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\bin\Debug\AdvancedDataGridView.dll
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\bin\Debug\AdvancedDataGridView.xml
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\obj\Debug\FantasticFeedback__FF_.inicio.resources
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\obj\Debug\FantasticFeedback__FF_.Usuarios.resources
+C:\Users\agusp\source\repos\FantasticFeedback (FF)\obj\Debug\FantasticFeedback__FF_.Reviews.resources

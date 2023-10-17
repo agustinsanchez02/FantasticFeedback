@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FantasticFeedback (FF)", "FantasticFeedback (FF).csproj", "{C16FA68F-79B6-4CAA-9F5A-026CD51C7ED1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{8927D17C-5C9F-4ECF-AAD0-1252A0EBA7DB}"
+	ProjectSection(SolutionItems) = preProject
+		FantasticFeedback.sql = FantasticFeedback.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C16FA68F-79B6-4CAA-9F5A-026CD51C7ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16FA68F-79B6-4CAA-9F5A-026CD51C7ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16FA68F-79B6-4CAA-9F5A-026CD51C7ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16FA68F-79B6-4CAA-9F5A-026CD51C7ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A334D5F-A528-4A07-BA2B-F6521AB72DEB}
+	EndGlobalSection
+EndGlobal
